@@ -1,1 +1,1 @@
-# Taller-Pr-ctico-Asincron-a-y-Callbacks-en-JavaScript
+# Taller-Practico-Asincron-y-Callbacks-en-JavaScript
